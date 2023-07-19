@@ -26,3 +26,20 @@ The data used in this project is contained in:
 ## Conclusion
 
 The most occuring event is 'offer_received', so I tried to do a model with that, but  the results of the model seems like not so good . There is no change in rate of accuracy it keep constant.
+
+## REFERENCES
+
+https://learn.udacity.com/my-programs?tab=Currently%2520Learning
+
+https://pandas.pydata.org/docs/index.html
+
+https://www.tensorflow.org/tutorials/keras/classification
+
+https://forums.fast.ai/
+
+https://stackoverflow.com/
+
+https://www.appsloveworld.com/
+
+https://scikit-learn.org/stable/
+
